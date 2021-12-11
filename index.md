@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-215028417-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-215028417-1');
+</script>
+
 ## EBLN DMCC fund recovery client group
 
 We are a group of EBLN clients are active seeking to recover funds. You can join the group by sending an email to EBLN.Clients@protonmail.com.
