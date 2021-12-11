@@ -1,4 +1,4 @@
-## Welcome to the EBLN client group
+## EBLN DMCC fund recovery client group
 
 We are a group of EBLN clients are active seeking to recover funds. You can join the group by sending an email to EBLN.Clients@protonmail.com.
 
